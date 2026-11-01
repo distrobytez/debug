@@ -1,0 +1,6 @@
+{
+  "name": "NeuroTrace - Causal Explainability Platform",
+  "description": "Cross-System Causal Explainability Platform for Automated Decision Pipelines: distributed causal graph reconstruction, AI feature attribution, audit replay, and compliance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
